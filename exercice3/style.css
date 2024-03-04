@@ -1,0 +1,37 @@
+body{
+  background-color:#9470DB ;
+  display:flex;
+  /* justify-content: center; */
+  flex-direction: column;
+  align-items: center;
+}
+.container_div{
+  background-color: #17BDF5;
+  width:1200;
+  height:800px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  
+}
+header{
+  background-color: #F868B3;
+  width:1200px;
+  height:150px;
+}
+.red_class{
+  background-color:#FD4441;
+  width: 1200px;
+  height:40px;
+}
+.yellow_class{
+  background-color:#FEDA59 ;
+  width: 150px;
+  height:150px;
+}
+article{
+  background-color:#8FEB90;
+  width:1050px;
+  height:800px;
+}
